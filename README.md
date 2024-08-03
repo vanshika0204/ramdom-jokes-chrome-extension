@@ -1,1 +1,1 @@
-# silly-jokes-chrome-extension
+# random-jokes-chrome-extension
